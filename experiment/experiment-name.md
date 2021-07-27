@@ -1,1 +1,1 @@
-## Experiment name
+Temporal structure in EEG
