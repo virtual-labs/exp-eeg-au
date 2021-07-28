@@ -1,1 +1,1 @@
-Temporal structure in EEG
+## Temporal structure in EEG
